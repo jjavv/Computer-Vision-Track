@@ -1,6 +1,6 @@
 # Computer-Vision-Track
 Codevita Live CV internship Tasks
-Task1: Edge and Countour Detection Model
+Task1: Edge and Contour Detection Model
 Task2: Hand Gesture Detection
 Task3: Face Detection Model
 Edges are where there is discontinuties and objects are separated. It is done using Canny Edge Detection.
